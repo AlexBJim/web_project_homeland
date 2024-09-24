@@ -41,7 +41,7 @@
     margin-left: 15px;
     max-width: 100%;
   }
-  .intro__quote {
+  .intro__citation {
     width: 720px;
     height: 136px;
     font-size: 24px;
@@ -49,7 +49,7 @@
     margin-left: 15px;
     max-width: 100%;
   }
-  .intro__quote-author {
+  .intro__citation-author {
     font-size: 24px;
     line-height: 34px;
     width: 720px;
@@ -76,7 +76,7 @@
     width: 288px;
     line-height: 35px;
   }
-  .intro__quote {
+  .intro__citation {
     font-size: 23px;
     line-height: 30px;
     margin-left: 10px;
@@ -84,7 +84,7 @@
     width: 288px;
     height: 300px;
   }
-  .intro__quote-author {
+  .intro__citation-author {
     max-width: 100%;
     width: 270px;
     height: 34px;
